@@ -21,7 +21,7 @@ Built with **FastAPI (backend)**, **React (frontend)**, **LangChain**, **Gemini 
     "fair_price_range": { "min": 17350, "max": 25200, "currency": "INR", "display": "₹17,350 - ₹25,200" },
     "reasoning": "Depreciation + condition + brand/location adjustments",
     "confidence": "medium",
-    "Comaparables": Comparison with olx, shopify, flipkart or online shopping sites
+    "Comaparables": Comparison with olx, shopify, flipkart or online shopping sites,
   }
 
 ### Bonus:
@@ -44,7 +44,7 @@ Built with **FastAPI (backend)**, **React (frontend)**, **LangChain**, **Gemini 
   {
     "status": "Abusive",
     "reason": "Contains insulting language",
-    "description": Describing the message in chat and reason about it and status of it
+    "description": Describing the message in chat and reason about it and status of it,
   }
 
 ### 🔹 API Endpoints
@@ -134,7 +134,7 @@ Response:
         "display": "₹25,700 - ₹37,000"
     },
     "reasoning": "The asking price of ₹45,000 for an 18-month-old iPhone 12 (128GB) in good condition is significantly higher than the fair price range of ₹25,700 to ₹37,000.  Since there are no comparable listings, this suggests the seller's price is inflated.  A more reasonable asking price would fall within or slightly above the heuristic range, perhaps ₹37,000 to ₹40,000.",
-    "comparables": [olx - ₹27000, Shopify- ₹35000]
+    "comparables": [olx - ₹27000, Shopify- ₹35000],
 }
 ```
 #### ✅ Chat Moderation
