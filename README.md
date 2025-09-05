@@ -21,7 +21,7 @@ Built with **FastAPI (backend)**, **React (frontend)**, **LangChain**, **Gemini 
     "fair_price_range": { "min": 17350, "max": 25200, "currency": "INR", "display": "₹17,350 - ₹25,200" },
     "reasoning": "Depreciation + condition + brand/location adjustments",
     "confidence": "medium",
-    "Comaparables": Comparison with olx, shopify, flipkart or online shopping sites,
+    "Comparables": Comparison with olx, shopify, flipkart or online shopping sites,
   }
 
 ### Bonus:
